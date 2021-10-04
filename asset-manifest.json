@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc8e5608.chunk.css",
+    "main.js": "/static/js/main.04f112c4.chunk.js",
+    "main.js.map": "/static/js/main.04f112c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aabc522b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aabc522b.js.map",
+    "static/js/2.a99cf5df.chunk.js": "/static/js/2.a99cf5df.chunk.js",
+    "static/js/2.a99cf5df.chunk.js.map": "/static/js/2.a99cf5df.chunk.js.map",
+    "static/js/3.e0b68c5e.chunk.js": "/static/js/3.e0b68c5e.chunk.js",
+    "static/js/3.e0b68c5e.chunk.js.map": "/static/js/3.e0b68c5e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bc8e5608.chunk.css.map": "/static/css/main.bc8e5608.chunk.css.map",
+    "static/js/2.a99cf5df.chunk.js.LICENSE.txt": "/static/js/2.a99cf5df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/static/media/mlb_b.1b38c489.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aabc522b.js",
+    "static/js/2.a99cf5df.chunk.js",
+    "static/css/main.bc8e5608.chunk.css",
+    "static/js/main.04f112c4.chunk.js"
+  ]
+}
