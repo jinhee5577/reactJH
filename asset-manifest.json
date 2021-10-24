@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactJH/static/css/main.e54b7cb1.chunk.css",
-    "main.js": "/reactJH/static/js/main.59e815c8.chunk.js",
-    "main.js.map": "/reactJH/static/js/main.59e815c8.chunk.js.map",
+    "main.css": "/reactJH/static/css/main.5dccf0db.chunk.css",
+    "main.js": "/reactJH/static/js/main.746ba4ea.chunk.js",
+    "main.js.map": "/reactJH/static/js/main.746ba4ea.chunk.js.map",
     "runtime-main.js": "/reactJH/static/js/runtime-main.501f2060.js",
     "runtime-main.js.map": "/reactJH/static/js/runtime-main.501f2060.js.map",
     "static/css/2.c556edb0.chunk.css": "/reactJH/static/css/2.c556edb0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.d9d83937.chunk.js.map": "/reactJH/static/js/3.d9d83937.chunk.js.map",
     "index.html": "/reactJH/index.html",
     "static/css/2.c556edb0.chunk.css.map": "/reactJH/static/css/2.c556edb0.chunk.css.map",
-    "static/css/main.e54b7cb1.chunk.css.map": "/reactJH/static/css/main.e54b7cb1.chunk.css.map",
+    "static/css/main.5dccf0db.chunk.css.map": "/reactJH/static/css/main.5dccf0db.chunk.css.map",
     "static/js/2.bef96860.chunk.js.LICENSE.txt": "/reactJH/static/js/2.bef96860.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reactJH/static/media/logo.6ce24c58.svg",
     "static/media/App.css": "/reactJH/static/media/mlb_b4.c4780141.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.501f2060.js",
     "static/css/2.c556edb0.chunk.css",
     "static/js/2.bef96860.chunk.js",
-    "static/css/main.e54b7cb1.chunk.css",
-    "static/js/main.59e815c8.chunk.js"
+    "static/css/main.5dccf0db.chunk.css",
+    "static/js/main.746ba4ea.chunk.js"
   ]
 }
