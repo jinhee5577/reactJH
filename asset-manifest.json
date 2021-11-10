@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactJH/static/css/main.287734e9.chunk.css",
-    "main.js": "/reactJH/static/js/main.42ac1f8c.chunk.js",
-    "main.js.map": "/reactJH/static/js/main.42ac1f8c.chunk.js.map",
+    "main.css": "/reactJH/static/css/main.f3ab683c.chunk.css",
+    "main.js": "/reactJH/static/js/main.453419b2.chunk.js",
+    "main.js.map": "/reactJH/static/js/main.453419b2.chunk.js.map",
     "runtime-main.js": "/reactJH/static/js/runtime-main.1f71ac45.js",
     "runtime-main.js.map": "/reactJH/static/js/runtime-main.1f71ac45.js.map",
     "static/css/2.c556edb0.chunk.css": "/reactJH/static/css/2.c556edb0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.e4fa9655.chunk.js.map": "/reactJH/static/js/3.e4fa9655.chunk.js.map",
     "index.html": "/reactJH/index.html",
     "static/css/2.c556edb0.chunk.css.map": "/reactJH/static/css/2.c556edb0.chunk.css.map",
-    "static/css/main.287734e9.chunk.css.map": "/reactJH/static/css/main.287734e9.chunk.css.map",
+    "static/css/main.f3ab683c.chunk.css.map": "/reactJH/static/css/main.f3ab683c.chunk.css.map",
     "static/js/2.51cc1f24.chunk.js.LICENSE.txt": "/reactJH/static/js/2.51cc1f24.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reactJH/static/media/logo.6ce24c58.svg",
     "static/media/App.css": "/reactJH/static/media/mlb_b4.c4780141.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.1f71ac45.js",
     "static/css/2.c556edb0.chunk.css",
     "static/js/2.51cc1f24.chunk.js",
-    "static/css/main.287734e9.chunk.css",
-    "static/js/main.42ac1f8c.chunk.js"
+    "static/css/main.f3ab683c.chunk.css",
+    "static/js/main.453419b2.chunk.js"
   ]
 }
