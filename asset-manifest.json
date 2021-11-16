@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/reactJH/static/css/main.95c8fccd.chunk.css",
-    "main.js": "/reactJH/static/js/main.be215126.chunk.js",
-    "main.js.map": "/reactJH/static/js/main.be215126.chunk.js.map",
-    "runtime-main.js": "/reactJH/static/js/runtime-main.1f71ac45.js",
-    "runtime-main.js.map": "/reactJH/static/js/runtime-main.1f71ac45.js.map",
+    "main.css": "/reactJH/static/css/main.046b8f50.chunk.css",
+    "main.js": "/reactJH/static/js/main.5c8b2375.chunk.js",
+    "main.js.map": "/reactJH/static/js/main.5c8b2375.chunk.js.map",
+    "runtime-main.js": "/reactJH/static/js/runtime-main.3e84455c.js",
+    "runtime-main.js.map": "/reactJH/static/js/runtime-main.3e84455c.js.map",
     "static/css/2.c556edb0.chunk.css": "/reactJH/static/css/2.c556edb0.chunk.css",
-    "static/js/2.81c673a7.chunk.js": "/reactJH/static/js/2.81c673a7.chunk.js",
-    "static/js/2.81c673a7.chunk.js.map": "/reactJH/static/js/2.81c673a7.chunk.js.map",
-    "static/js/3.e4fa9655.chunk.js": "/reactJH/static/js/3.e4fa9655.chunk.js",
-    "static/js/3.e4fa9655.chunk.js.map": "/reactJH/static/js/3.e4fa9655.chunk.js.map",
+    "static/js/2.23bc6c75.chunk.js": "/reactJH/static/js/2.23bc6c75.chunk.js",
+    "static/js/2.23bc6c75.chunk.js.map": "/reactJH/static/js/2.23bc6c75.chunk.js.map",
+    "static/js/3.e510af3b.chunk.js": "/reactJH/static/js/3.e510af3b.chunk.js",
+    "static/js/3.e510af3b.chunk.js.map": "/reactJH/static/js/3.e510af3b.chunk.js.map",
     "index.html": "/reactJH/index.html",
     "static/css/2.c556edb0.chunk.css.map": "/reactJH/static/css/2.c556edb0.chunk.css.map",
-    "static/css/main.95c8fccd.chunk.css.map": "/reactJH/static/css/main.95c8fccd.chunk.css.map",
-    "static/js/2.81c673a7.chunk.js.LICENSE.txt": "/reactJH/static/js/2.81c673a7.chunk.js.LICENSE.txt",
+    "static/css/main.046b8f50.chunk.css.map": "/reactJH/static/css/main.046b8f50.chunk.css.map",
+    "static/js/2.23bc6c75.chunk.js.LICENSE.txt": "/reactJH/static/js/2.23bc6c75.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reactJH/static/media/logo.6ce24c58.svg",
     "static/media/App.css": "/reactJH/static/media/mlb_b4.c4780141.png",
     "static/media/slick-theme.css": "/reactJH/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f71ac45.js",
+    "static/js/runtime-main.3e84455c.js",
     "static/css/2.c556edb0.chunk.css",
-    "static/js/2.81c673a7.chunk.js",
-    "static/css/main.95c8fccd.chunk.css",
-    "static/js/main.be215126.chunk.js"
+    "static/js/2.23bc6c75.chunk.js",
+    "static/css/main.046b8f50.chunk.css",
+    "static/js/main.5c8b2375.chunk.js"
   ]
 }
