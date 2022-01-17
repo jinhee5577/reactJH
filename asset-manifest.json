@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactJH/static/css/main.ad1b1953.chunk.css",
-    "main.js": "/reactJH/static/js/main.b85c382d.chunk.js",
-    "main.js.map": "/reactJH/static/js/main.b85c382d.chunk.js.map",
+    "main.css": "/reactJH/static/css/main.3e5706a9.chunk.css",
+    "main.js": "/reactJH/static/js/main.a41f0713.chunk.js",
+    "main.js.map": "/reactJH/static/js/main.a41f0713.chunk.js.map",
     "runtime-main.js": "/reactJH/static/js/runtime-main.cf716748.js",
     "runtime-main.js.map": "/reactJH/static/js/runtime-main.cf716748.js.map",
     "static/css/2.beaa2b46.chunk.css": "/reactJH/static/css/2.beaa2b46.chunk.css",
@@ -12,17 +12,17 @@
     "static/js/3.e9bb11ec.chunk.js.map": "/reactJH/static/js/3.e9bb11ec.chunk.js.map",
     "index.html": "/reactJH/index.html",
     "static/css/2.beaa2b46.chunk.css.map": "/reactJH/static/css/2.beaa2b46.chunk.css.map",
-    "static/css/main.ad1b1953.chunk.css.map": "/reactJH/static/css/main.ad1b1953.chunk.css.map",
+    "static/css/main.3e5706a9.chunk.css.map": "/reactJH/static/css/main.3e5706a9.chunk.css.map",
     "static/js/2.b78a26a1.chunk.js.LICENSE.txt": "/reactJH/static/js/2.b78a26a1.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reactJH/static/media/logo.6ce24c58.svg",
-    "static/media/App.css": "/reactJH/static/media/mlb_b4.c4780141.png",
+    "static/media/App.css": "/reactJH/static/media/pear_b.98373d94.jpg",
     "static/media/slick-theme.css": "/reactJH/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.cf716748.js",
     "static/css/2.beaa2b46.chunk.css",
     "static/js/2.b78a26a1.chunk.js",
-    "static/css/main.ad1b1953.chunk.css",
-    "static/js/main.b85c382d.chunk.js"
+    "static/css/main.3e5706a9.chunk.css",
+    "static/js/main.a41f0713.chunk.js"
   ]
 }
