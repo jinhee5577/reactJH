@@ -11,5 +11,10 @@ React로 개발된 웹페이지이며, Redux를 사용하여 쇼핑몰에서 장
 로그인페이지 기능은 간단하게 user정보를 JSON파일로 저장해두었고 axios로 요청하여 id와 비밀번호를 검사합니다. 
 id와 비밀번호가 일치할경우만 회원멤버창이 뜨도록 간단하게 개발하였습니다.
 
+
+#### 진행 기간 및 규모 : 2021년 8월 ~ 2022년 현재까지 기능등 계속 추가(약 5개월), 개발 1명(본인)
+#### 사용 기술 : React, Redux, Javascript, Axios, Localstorage, 카카오지도API, Bootstrap. react-slick-slide.
+#### 성과 : 그동안 공부한 모든 내용과 여러가지 개발의 시도를 통해 프론트엔드 개발 역량을 크게 향상 시킬수 있었습니다. 앞으로도 다양한 기능개발 들이 계속해서 추가될 예정입니다.
+
 ## 저의 reactJH사이트 링크입니다. https://jinhee5577.github.io/reactJH/
 ### 저의 reactJH사이트의 자세한 코드내용은 여기로 보시면 됩니다. https://github.com/jinhee5577/JHreact/tree/master/src 
