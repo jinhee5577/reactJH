@@ -1,4 +1,9 @@
 # reactJH
+
+<img width="284" alt="jh1" src="https://github.com/jinhee5577/reactJH/assets/82584287/149ebe70-cb92-4f82-b0a1-54819e518629">
+<img width="282" alt="jh2" src="https://github.com/jinhee5577/reactJH/assets/82584287/7206ecac-c38a-4bd2-9d8d-740686e2373d">
+<img width="279" alt="jh4" src="https://github.com/jinhee5577/reactJH/assets/82584287/dd0cf2f7-403d-4385-9244-f73766a04eb3">
+
 ## RESCT_SHOP_JINHEE
 이프로젝트는 제가 그동안 react.js의 유료 온라인강의를 수강하면서 공부한 모든 내용들이 들어간 총 집합체 입니다. 
 React로 개발된 웹페이지이며, Redux를 사용하여 쇼핑몰에서 장바구니페이지 의 기본적인 CRUD기능과 중복상품은 추가되지 않도록 기능개발 되었습니다. 
