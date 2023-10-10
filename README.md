@@ -1,14 +1,14 @@
 # reactJH
 
-<img width="284" alt="jh1" src="https://github.com/jinhee5577/reactJH/assets/82584287/149ebe70-cb92-4f82-b0a1-54819e518629">
-<img width="282" alt="jh2" src="https://github.com/jinhee5577/reactJH/assets/82584287/7206ecac-c38a-4bd2-9d8d-740686e2373d">
-<img width="279" alt="jh4" src="https://github.com/jinhee5577/reactJH/assets/82584287/dd0cf2f7-403d-4385-9244-f73766a04eb3">
-<img width="283" alt="jh3" src="https://github.com/jinhee5577/reactJH/assets/82584287/4018ee3d-f480-4e11-90a6-80863ec66dbe">
-<img width="286" alt="jh7" src="https://github.com/jinhee5577/reactJH/assets/82584287/e337b76f-4cfd-404c-bf20-9ce032c9a82d">
-<img width="286" alt="jh8" src="https://github.com/jinhee5577/reactJH/assets/82584287/aab87be2-9e8e-45e4-8aec-d5fd482aa389">
-<img width="282" alt="jh5" src="https://github.com/jinhee5577/reactJH/assets/82584287/066b7602-e2b0-4ed2-8b2b-770b93034b5b">
-<img width="281" alt="jh6" src="https://github.com/jinhee5577/reactJH/assets/82584287/a6e130d6-4b90-4128-9c14-fc4939904e88">
-<img width="282" alt="jh9" src="https://github.com/jinhee5577/reactJH/assets/82584287/47d781be-289d-4ce6-9567-3a354f19a907">
+<img width="200" alt="jh1" src="https://github.com/jinhee5577/reactJH/assets/82584287/149ebe70-cb92-4f82-b0a1-54819e518629">
+<img width="200" alt="jh2" src="https://github.com/jinhee5577/reactJH/assets/82584287/7206ecac-c38a-4bd2-9d8d-740686e2373d">
+<img width="200" alt="jh4" src="https://github.com/jinhee5577/reactJH/assets/82584287/dd0cf2f7-403d-4385-9244-f73766a04eb3">
+<img width="200" alt="jh3" src="https://github.com/jinhee5577/reactJH/assets/82584287/4018ee3d-f480-4e11-90a6-80863ec66dbe">
+<img width="200" alt="jh7" src="https://github.com/jinhee5577/reactJH/assets/82584287/e337b76f-4cfd-404c-bf20-9ce032c9a82d">
+<img width="200" alt="jh8" src="https://github.com/jinhee5577/reactJH/assets/82584287/aab87be2-9e8e-45e4-8aec-d5fd482aa389">
+<img width="200" alt="jh5" src="https://github.com/jinhee5577/reactJH/assets/82584287/066b7602-e2b0-4ed2-8b2b-770b93034b5b">
+<img width="200" alt="jh6" src="https://github.com/jinhee5577/reactJH/assets/82584287/a6e130d6-4b90-4128-9c14-fc4939904e88">
+<img width="200" alt="jh9" src="https://github.com/jinhee5577/reactJH/assets/82584287/47d781be-289d-4ce6-9567-3a354f19a907">
 
 
 
